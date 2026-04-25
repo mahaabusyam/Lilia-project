@@ -53,7 +53,7 @@ body{
     padding: 80px 8%;
     display: flex;
     align-items: center;
-    min-height: 80vh;
+    min-height: 50vh;
 }
 
 .container {
@@ -1357,11 +1357,11 @@ translate: 0px -100px;
     .footer-col ul li a::before {
         display: none; /* إخفاء السهم في الجوال لتبسيط المظهر أو تركه حسب الرغبة */
     }
-    .icon-box{
-        translate: -150px;
-    }
     .small-circle{
         translate: 300px -5px;
     }
+  .stat-box .red {
+    translate: 0px 50px;
+}
 
 }
