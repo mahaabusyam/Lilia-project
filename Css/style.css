@@ -1210,6 +1210,9 @@ translate: 0px -100px;
     .menu-toggle i {
     display: block;
 }
+  .stat-box.orange,.stat-box.red{
+    translate: 0px 100px;
+  }
 .navbar {
         position: relative;
         z-index: 1000;
@@ -1360,8 +1363,5 @@ translate: 0px -100px;
     .small-circle{
         translate: 300px -5px;
     }
-  .stat-box .red {
-    translate: 0px 50px;
-}
-
+  
 }
