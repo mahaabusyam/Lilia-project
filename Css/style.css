@@ -1211,7 +1211,7 @@ translate: 0px -100px;
     display: block;
 }
   .stat-box.orange,.stat-box.red{
-    translate: 0px 50px;
+    translate: 0px 0px;
   }
 .navbar {
         position: relative;
